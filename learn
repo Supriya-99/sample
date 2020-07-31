@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        JavaScript Proramming
+    </title>
+    
+    <p id="demo"></p>
+     <body>
+         <h1> Programming </h1>
+         <h2> JavaScript</h2>
+         <h3> Hello World</h3>
+         <h4> Hello JS </h4>
+         <h5> Welcome </h5>
+         <h6> Programming is FUN </h6>
+
+         <script src="variables.js">
+         </script>
+
+     </body>
+
+</html
+
+#variable.js
